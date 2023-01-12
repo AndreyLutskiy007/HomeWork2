@@ -8,6 +8,6 @@ public class Main {
         System.out.println(res2);
         var res3 = res2 + 4;
         System.out.println(res3);
-
+        // Ошибся - эта задача № 5
     }
 }
